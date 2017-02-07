@@ -43,6 +43,7 @@ local.properties
 CHelperReport.txt
 TaskClass.template
 out/
+Main.java
 
 
 #################
