@@ -41,7 +41,7 @@ local.properties
 #################
 
 CHelperReport.txt
-TaskClass.template
+*.template
 out/
 Main.java
 
